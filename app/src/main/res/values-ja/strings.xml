@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BOSSAPP</string>
+    <string name="button_cancel">キャンセル</string>
+    <string name="button_search">サーチ</string>
+    <string name="button_string">ログイン</string>
+    <string name="clock_subtitle">UTC時間</string>
+    <string name="dialog_canceled">キャンセルした</string>
+    <string name="dialog_searching">サーチ中</string>
+    <string name="notification_message_wbs_soon">すぐにWBS!</string>
+    <string name="notification_title_bossalert">ボッスアラート</string>
+    <string name="settings_screen_off_on">オフ | オン</string>
+    <string name="settings_screen_sound_settings">サウンド設定</string>
+    <string name="settings_screen_vibration_settings">振動設定</string>
+    <string name="wiki">RS WIKI</string>
+    <string name="title_activity_settings">設定</string>
+    <string name="title_activity_search">サーチ</string>
+    <string name="title_activity_music">音楽</string>
+    <string name="title_activity_maps">地図</string>
+    <string name="settings_toast_sound_on">サウンドオン</string>
+    <string name="settings_toast_sound_off">サウンドオフ</string>
+    <string name="settings_toast_vibration_off">振動オフ</string>
+    <string name="settings_toast_vibration_on">振動オン</string>
+    <string name="google_maps_key" translatable="false"></string>
+    <string name="countdown_subtitle">以内にイベント</string>
+</resources>

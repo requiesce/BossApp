@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BOSSAPP</string>
+    <string name="button_cancel">ΑΚΥΡΩΣΗ</string>
+    <string name="button_search">ΑΝΑΖΗΤΗΣΗ</string>
+    <string name="button_string">ΣΥΝΔΕΣΗ</string>
+    <string name="clock_subtitle">ΩΡΑ UTC</string>
+    <string name="countdown_subtitle">περίπτωση ΣΕ</string>
+    <string name="dialog_canceled">ΑΚΥΡΩΘΗΚΕ</string>
+    <string name="dialog_searching">ΑΝΑΖΗΤΗΣΗ ΓΙΑ...</string>
+    <string name="notification_message_wbs_soon">WBS ΣΥΝΤΟΜΑ!</string>
+    <string name="notification_title_bossalert">BOSSALARM</string>
+    <string name="settings_screen_off_on">ΚΛΕΙΣΤΟ | ΑΝΟΙΧΤΟ</string>
+    <string name="settings_screen_sound_settings">ΡΥΘΜΙΣΕΙΣ ΗΧΟΥ</string>
+    <string name="settings_screen_vibration_settings">ΡΥΘΜΙΣΕΙΣ ΔΟΝΗΣΗΣ</string>
+    <string name="settings_toast_sound_off">ΚΛΕΙΣΤΟΣ ΗΧΟΣ</string>
+    <string name="settings_toast_sound_on">ΑΝΟΙΧΤΟΣ ΗΧΟΣ</string>
+    <string name="settings_toast_vibration_off">ΚΛΕΙΣΤΗ ΔΟΝΗΣΗ</string>
+    <string name="settings_toast_vibration_on">ΑΝΟΙΧΤΗ ΔΟΝΗΣΗ</string>
+    <string name="title_activity_maps">ΧΑΡΤΗΣ</string>
+    <string name="title_activity_music">ΜΟΥΣΙΚΗ</string>
+    <string name="title_activity_search">ΑΝΑΖΗΤΗΣΗ</string>
+    <string name="title_activity_settings">ΡΥΘΜΙΣΕΙΣ</string>
+    <string name="wiki">RS WIKI</string>
+</resources>

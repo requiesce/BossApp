@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BOSSAPP</string>
+    <string name="button_cancel">ANNULER</string>
+    <string name="button_search">RECHERCHER</string>
+    <string name="button_string">SE CONNECTER</string>
+    <string name="clock_subtitle">HEURE UTC</string>
+    <string name="countdown_subtitle">ÉVÉNEMENT DANS</string>
+    <string name="dialog_canceled">ANNULÉ</string>
+    <string name="dialog_searching">A LA RECHERCHE DE</string>
+    <string name="notification_message_wbs_soon">WBS BIENTÔT!</string>
+    <string name="notification_title_bossalert">BOSSALERTE</string>
+    <string name="settings_screen_off_on">OFF | ON</string>
+    <string name="settings_screen_sound_settings">RÉGLAGE SON</string>
+    <string name="settings_screen_vibration_settings">RÉGLAGE VIBRATION</string>
+    <string name="settings_toast_sound_off">SON DÉSACTIVER</string>
+    <string name="settings_toast_sound_on">SON ACTIVER</string>
+    <string name="settings_toast_vibration_off">VIBRATION DÉSACTIVER</string>
+    <string name="settings_toast_vibration_on">VIBRATION ACTIVER</string>
+    <string name="title_activity_maps">MAP</string>
+    <string name="title_activity_music">MUSIQUE</string>
+    <string name="title_activity_search">RECHERCHER</string>
+    <string name="title_activity_settings">RÉGLAGE</string>
+    <string name="wiki">RS WIKI</string>
+</resources>

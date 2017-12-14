@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory
+        android:title="Settings">
+        <SwitchPreference
+            android:id="@+id/switchSound"
+            android:checked="true"
+            android:defaultValue="true"
+            android:disableDependentsState="false"
+            android:key="switchSound"
+            android:summary="@string/settings_screen_off_on"
+            android:switchTextOff="Off"
+            android:switchTextOn="On"
+            android:title="@string/settings_screen_sound_settings" />
+        <SwitchPreference
+            android:id="@+id/switchVibrate"
+            android:checked="true"
+            android:defaultValue="true"
+            android:disableDependentsState="false"
+            android:key="switchVibrate"
+            android:summary="@string/settings_screen_off_on"
+            android:switchTextOff="Off"
+            android:switchTextOn="On"
+            android:title="@string/settings_screen_vibration_settings" />
+    </PreferenceCategory>
+
+<!--  <PreferenceCategory
+   android:title="Background">
+     <CheckBoxPreference
+         android:id="@+id/checkboxBackground"
+         android:defaultValue="false"
+         android:key="checkboxBackground"
+         android:title="Minimalistic" />
+ </PreferenceCategory> -->
+
+<!--    <PreferenceCategory
+        android:title="Alarms">
+     <ListPreference
+         android:title="Alarm Sound"
+         android:key="listAlarms"
+         android:entries="@array/listAlarms"
+         android:entryValues="@array/listValues"
+         android:summary = "Select sound for alarm"
+         android:defaultValue="0"/>
+    </PreferenceCategory> -->
+
+</PreferenceScreen>

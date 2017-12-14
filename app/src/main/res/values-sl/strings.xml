@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BOSSAPP</string>
+    <string name="button_cancel">PREKLIČI</string>
+    <string name="button_search">ISKANJE</string>
+    <string name="button_string">PRIJAVA</string>
+    <string name="clock_subtitle">UTC ČAS</string>
+    <string name="countdown_subtitle">DOGODEK ČEZ</string>
+    <string name="dialog_canceled">PREKLICANO</string>
+    <string name="dialog_searching">IŠČEM</string>
+    <string name="notification_message_wbs_soon">WBS KMALU!</string>
+    <string name="notification_title_bossalert">BOSSOPOZORILO</string>
+    <string name="settings_screen_off_on">IZKLOP | VKLOP</string>
+    <string name="settings_screen_sound_settings">NASTAVITVE ZVOKA</string>
+    <string name="settings_screen_vibration_settings">NASTAVITVE VIBRIRANJA</string>
+    <string name="settings_toast_sound_off">ZVOK IZKLOPLJEN</string>
+    <string name="settings_toast_sound_on">ZVOK VKLOPLJEN</string>
+    <string name="settings_toast_vibration_off">VIBRIRANJE IZKLOPLJENO</string>
+    <string name="settings_toast_vibration_on">VIBRIRANJE VKLOPLJENO</string>
+    <string name="title_activity_maps">ZEMLJEVID</string>
+    <string name="title_activity_music">GLASBA</string>
+    <string name="title_activity_search">ISKANJE</string>
+    <string name="title_activity_settings">NASTAVITVE</string>
+    <string name="wiki">RS WIKI</string>
+</resources>

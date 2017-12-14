@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BOSSAPP</string>
+    <string name="button_cancel">ANNULEER</string>
+    <string name="button_search">ZOEKEN</string>
+    <string name="button_string">LOG IN</string>
+    <string name="clock_subtitle">UTC TIJD</string>
+    <string name="countdown_subtitle">GEBEURTENIS IN</string>
+    <string name="dialog_canceled">GEANNULEERD</string>
+    <string name="dialog_searching">ZOEKEN NAAR</string>
+    <string name="notification_message_wbs_soon">WBS BINNEKORT!</string>
+    <string name="notification_title_bossalert">BOSSALARM</string>
+    <string name="settings_screen_off_on">UIT | AAN</string>
+    <string name="settings_screen_sound_settings">GELUIDSINSTELLINGEN</string>
+    <string name="settings_screen_vibration_settings">TRILLINGSINSTELLINGEN</string>
+    <string name="settings_toast_sound_off">GELUID UIT</string>
+    <string name="settings_toast_sound_on">GELUID AAN</string>
+    <string name="settings_toast_vibration_off">TRILLEN UIT</string>
+    <string name="settings_toast_vibration_on">TRILLEN AAN</string>
+    <string name="title_activity_maps">KAART</string>
+    <string name="title_activity_music">MUZIEK</string>
+    <string name="title_activity_search">ZOEKEN</string>
+    <string name="title_activity_settings">INSTELLINGEN</string>
+    <string name="wiki">RS WIKI</string>
+</resources>

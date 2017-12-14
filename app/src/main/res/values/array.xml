@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name = "listAlarms">
+        <item>"None"</item>
+        <item>"Yay"</item>
+        <item>"Magic"</item>
+        <item>"Scream"</item>
+    </string-array>
+
+    <string-array name = "listValues">
+        <item>"None"</item>
+        <item>"Yay Sound"</item>
+        <item>"Magic Sound"</item>
+        <item>"Scream Sound"</item>
+    </string-array>
+
+</resources>

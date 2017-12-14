@@ -1,0 +1,39 @@
+<resources>
+    <!-- UNIVERSAL -->
+    <string name="app_name" translatable="false">BOSSAPP</string>
+    <string name="org" translatable="false">BOSSBANDS.org</string>
+
+    <!-- MENU -->
+    <string name="title_activity_search">SEARCH</string>
+    <string name="title_activity_maps">MAP</string>
+    <string name="title_activity_music">MUSIC</string>
+    <string name="title_activity_settings">SETTINGS</string>
+
+    <!-- CLOCK -->
+    <string name="clock_subtitle">UTC TIME</string>
+
+    <!-- TIMER -->
+    <string name="countdown_subtitle">EVENT IN</string>
+    <string name="notification_message_wbs_soon">WBS SOON!</string>
+    <string name="notification_title_bossalert">BOSSALERT</string>
+
+    <!-- SEARCH -->
+    <string name="wiki">" RS WIKI"</string> <!-- "" FORCES LEADING SPACE -->
+    <string name="dialog_canceled">CANCELED</string>
+    <string name="dialog_searching">SEARCHING FOR \U</string> <!-- \U PRESERVES TRAILING SPACE -->
+    <string name="button_cancel">CANCEL</string>
+    <string name="button_search">SEARCH</string>
+
+    <!-- SITE -->
+    <string name="button_string">LOGIN</string>
+
+    <!-- SETTINGS -->
+    <string name="settings_screen_sound_settings">SOUND SETTINGS</string>
+    <string name="settings_screen_vibration_settings">VIBRATION SETTINGS</string>
+    <string name="settings_screen_off_on">OFF | ON</string>
+    <string name="settings_toast_sound_on">SOUND ON</string>
+    <string name="settings_toast_sound_off">SOUND OFF</string>
+    <string name="settings_toast_vibration_on">VIBRATION ON</string>
+    <string name="settings_toast_vibration_off">VIBRATION OFF</string>
+
+</resources>

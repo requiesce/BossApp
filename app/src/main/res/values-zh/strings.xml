@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BOSSAPP</string>
+    <string name="wiki">RS維基</string>
+    <string name="title_activity_settings">設置</string>
+    <string name="title_activity_search">尋找</string>
+    <string name="title_activity_music">音樂</string>
+    <string name="title_activity_maps">地圖</string>
+    <string name="settings_toast_vibration_on">振動打開</string>
+    <string name="settings_toast_vibration_off">振動關閉</string>
+    <string name="settings_toast_sound_on">聲音打開</string>
+    <string name="settings_toast_sound_off">聲音關閉</string>
+    <string name="settings_screen_vibration_settings">振動設置</string>
+    <string name="settings_screen_sound_settings">聲音設置</string>
+    <string name="settings_screen_off_on">閉 | 開</string>
+    <string name="notification_message_wbs_soon">不久WBS!</string>
+    <string name="dialog_searching">尋找</string>
+    <string name="dialog_canceled">取消了</string>
+    <string name="clock_subtitle">UTC時間</string>
+    <string name="button_string">登錄</string>
+    <string name="button_cancel">取消</string>
+    <string name="countdown_subtitle">事件在</string>
+    <string name="google_maps_key" translatable="false"></string>
+    <string name="notification_title_bossalert">鉑愫警報</string>
+    <string name="button_search">尋找</string>
+</resources>

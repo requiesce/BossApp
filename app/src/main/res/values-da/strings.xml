@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BOSSAPP</string>
+    <string name="button_cancel">ANNULLER</string>
+    <string name="button_search">SØG</string>
+    <string name="button_string">LOG PÅ</string>
+    <string name="countdown_subtitle">BEGIVENHED TID</string>
+    <string name="clock_subtitle">UTC TID</string>
+    <string name="dialog_canceled">ABRYD</string>
+    <string name="dialog_searching">SØGER EFTER</string>
+    <string name="notification_message_wbs_soon">WBS SNART!</string>
+    <string name="notification_title_bossalert">BOSSALARM</string>
+    <string name="settings_screen_off_on">TÆND | SLUK</string>
+    <string name="settings_screen_sound_settings">LYD INDSTILLINGER</string>
+    <string name="settings_screen_vibration_settings">VIBRATIONS INDSTILLINGER</string>
+    <string name="settings_toast_sound_off">LYD SLUKKET</string>
+    <string name="settings_toast_sound_on">LYD TÆNDT</string>
+    <string name="settings_toast_vibration_off">VIBRATION SLUKKET</string>
+    <string name="settings_toast_vibration_on">VIBRATION TÆNDT</string>
+    <string name="title_activity_maps">KORT</string>
+    <string name="title_activity_music">MUSIK</string>
+    <string name="title_activity_search">"SØG "</string>
+    <string name="title_activity_settings">INDSTILLINGER</string>
+    <string name="wiki">RS WIKI</string>
+</resources>

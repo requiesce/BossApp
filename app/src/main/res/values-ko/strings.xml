@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BOSSAPP</string>
+    <string name="button_cancel">캔슬</string>
+    <string name="button_search">검색</string>
+    <string name="button_string">로그인</string>
+    <string name="clock_subtitle">UTC시각</string>
+    <string name="countdown_subtitle">사건 까지</string>
+    <string name="dialog_canceled">캔슬됨</string>
+    <string name="dialog_searching">검색중</string>
+    <string name="notification_message_wbs_soon">곧 WBS!</string>
+    <string name="notification_title_bossalert">보스 경보</string>
+    <string name="settings_screen_off_on">끔 | 키기</string>
+    <string name="settings_screen_sound_settings">사운드 설정</string>
+    <string name="settings_screen_vibration_settings">진동 설정</string>
+    <string name="settings_toast_sound_off">사운드 끔</string>
+    <string name="settings_toast_sound_on">사운드 키기</string>
+    <string name="settings_toast_vibration_off">진동 끄기</string>
+    <string name="settings_toast_vibration_on">진동 킴</string>
+    <string name="title_activity_maps">지도</string>
+    <string name="title_activity_search">검색</string>
+    <string name="title_activity_settings">설정</string>
+    <string name="wiki">RS위키</string>
+    <string name="title_activity_music">음악</string>
+</resources>

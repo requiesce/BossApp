@@ -1,0 +1,51 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.x.tictactoe.MainActivity">
+
+    <item
+        android:id="@+id/action_search"
+        android:icon="@drawable/ic_search_black_24dp"
+        android:orderInCategory="100"
+        android:title="@string/title_activity_search"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_maps"
+        android:icon="@drawable/ic_add_location_black_24dp"
+        android:orderInCategory="100"
+        android:title="@string/title_activity_maps"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_music"
+        android:icon="@drawable/ic_music_note_black_24dp"
+        android:orderInCategory="100"
+        android:title="@string/title_activity_music"
+        app:showAsAction="always" />
+
+    <!--
+        <item
+            android:id="@+id/action_acknowledge"
+            android:icon="@drawable/ic_check_black_24dp"
+            android:orderInCategory="100"
+            android:title="@string/action_settings"
+            app:showAsAction="always" /> -->
+<!--
+    <item
+        android:id="@+id/action_mute"
+        android:icon="@drawable/ic_volume_up_black_24dp"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="always" /> -->
+
+
+    <item
+        android:id="@+id/action_settings"
+        android:icon="@drawable/ic_settings_black_24dp"
+        android:orderInCategory="100"
+        android:title="@string/title_activity_settings"
+        app:showAsAction="always" />
+</menu>
+
+
+
+
